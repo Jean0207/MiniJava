@@ -27,6 +27,7 @@ and binop = LMJ.binop =
   | OpMul
   | OpLt
   | OpGt
+  | OpOr
   | OpAnd
 
 and unop = LMJ.unop = UOpNot
